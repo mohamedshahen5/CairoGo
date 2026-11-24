@@ -1,0 +1,25 @@
+zone_id,zone_name,legacy_name,zone_type,has_metro
+Z01,Downtown,Downtown,downtown,1
+Z02,Zamalek,Zamalek,downtown,1
+Z03,Garden City,Garden City,downtown,1
+Z04,Abdeen,Abdeen,downtown,1
+Z05,Shubra,Shubra,downtown,1
+Z06,Ramses,Ramses,downtown,1
+Z07,Maadi,Maadi,midtown,1
+Z08,Nasr City,Nasr City,midtown,1
+Z09,Heliopolis,Heliopolis,midtown,1
+Z10,Mohandessin,Mohandessin,midtown,0
+Z11,Dokki,Dokki,midtown,0
+Z12,Agouza District,Agouza,midtown,0
+Z13,New Cairo,New Cairo,new_city,0
+Z14,6th October,6th October,new_city,0
+Z15,Sheikh Zayed,Sheikh Zayed,new_city,0
+Z16,Shorouk,Shorouk,new_city,0
+Z17,Obour,Obour,new_city,0
+Z18,Madinaty,Madinaty,new_city,0
+Z19,Helwan,Helwan,suburb,0
+Z20,Tora,Tora,suburb,0
+Z21,Badr City District,Badr City,suburb,0
+Z22,Qalyub,Qalyub,suburb,0
+Z23,Khanka,Khanka,suburb,0
+Z24,Cairo Airport,Cairo Airport,airport,0

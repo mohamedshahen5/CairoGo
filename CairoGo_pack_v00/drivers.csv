@@ -1,0 +1,1501 @@
+driver_id,join_date,vehicle_type,experience_months,home_zone,rating_avg
+5000,2026-02-14,sedan,98,Garden City,
+5001,2026-01-23,hatchback,32,Dokki,4.55
+5002,2026-03-24,van,17,Abdeen,4.76
+5003,2026-04-13,sedan,41,Downtown,4.47
+5004,2026-07-18,sedan,29,Shubra,4.72
+5005,2026-03-29,sedan,40,Maadi,4.48
+5006,2026-04-07,hatchback,15,Cairo Airport,4.57
+5007,2026-02-21,hatchback,61,Dokki,
+5008,2026-05-26,sedan,40,Cairo Airport,4.64
+5009,2026-04-14,sedan,28,Nasr City,4.54
+5010,2026-03-20,hatchback,115,Ramses,4.71
+5011,2026-02-15,sedan,56,Nasr City,5.0
+5012,2026-04-18,sedan,24,Heliopolis,4.64
+5013,2026-02-27,sedan,59,Cairo Airport,4.63
+5014,2026-03-08,van,49,Zamalek,4.55
+5015,2026-02-25,hatchback,38,Khanka,4.42
+5016,2026-03-19,sedan,17,Mohandessin,
+5017,2026-02-21,sedan,29,Garden City,
+5018,2026-03-08,sedan,36,Nasr City,
+5019,2026-02-01,sedan,16,Abdeen,4.29
+5020,2026-02-19,sedan,51,6th October,4.57
+5021,2026-02-11,hatchback,22,Zamalek,4.67
+5022,2026-04-18,sedan,4,Agouza,4.15
+5023,2026-02-14,sedan,45,Badr City,4.37
+5024,2026-03-27,hatchback,16,Shorouk,4.57
+5025,2026-01-22,hatchback,65,Shorouk,4.71
+5026,2026-03-04,hatchback,74,Badr City,4.42
+5027,2026-03-29,sedan,70,Heliopolis,4.5
+5028,2026-07-11,sedan,23,Heliopolis,4.32
+5029,2026-02-10,sedan,3,New Cairo,4.21
+5030,2026-02-04,hatchback,35,Qalyub,4.67
+5031,2026-03-30,hatchback,7,Nasr City,4.44
+5032,2026-02-14,van,102,Garden City,4.78
+5033,2026-03-09,sedan,22,Qalyub,4.57
+5034,2026-03-03,hatchback,80,Maadi,4.15
+5035,2026-04-19,sedan,7,6th October,
+5036,2026-01-21,sedan,37,Khanka,4.35
+5037,2026-03-04,hatchback,17,Agouza,
+5038,2026-03-13,sedan,101,Garden City,4.55
+5039,2026-01-25,hatchback,64,6th October,4.3
+5040,2026-03-01,sedan,44,Maadi,4.35
+5041,2026-03-11,sedan,36,Downtown,
+5042,2026-02-05,sedan,39,Shubra,4.83
+5043,2026-03-07,sedan,61,Nasr City,5.0
+5044,2026-01-11,van,64,Dokki,4.37
+5045,2026-03-01,sedan,21,Mohandessin,4.29
+5046,2026-04-14,hatchback,46,Mohandessin,4.49
+5047,2026-03-27,hatchback,33,Agouza,
+5048,2026-02-03,sedan,42,Garden City,4.5
+5049,2026-04-13,hatchback,29,Mohandessin,4.53
+5050,2026-04-10,hatchback,61,Heliopolis,4.61
+5051,2026-01-02,sedan,98,Maadi,4.58
+5052,2026-03-09,sedan,38,Tora,4.78
+5053,2026-02-03,sedan,59,Heliopolis,4.62
+5054,2026-02-27,sedan,18,Ramses,4.73
+5055,2026-01-30,sedan,56,Nasr City,4.52
+5056,2026-07-22,sedan,34,Cairo Airport,4.36
+5057,2026-03-14,hatchback,15,Abdeen,4.44
+5058,2026-04-07,sedan,17,Nasr City,4.72
+5059,2026-02-11,hatchback,37,Heliopolis,4.68
+5060,2026-04-03,sedan,42,Cairo Airport,4.6
+5061,2026-01-27,hatchback,21,Agouza,4.67
+5062,2026-04-06,hatchback,30,Abdeen,4.69
+5063,2026-03-20,hatchback,15,Nasr City,4.63
+5064,2026-03-21,sedan,97,Agouza,4.44
+5065,2026-03-18,sedan,34,Shorouk,4.56
+5066,2026-03-21,sedan,47,Garden City,
+5067,2026-04-15,hatchback,24,Ramses,4.53
+5068,2026-04-12,hatchback,41,Heliopolis,4.32
+5069,2026-02-09,sedan,8,Nasr City,4.48
+5070,2026-02-24,hatchback,81,Agouza,4.6
+5071,2026-03-12,van,14,Agouza,
+5072,2026-03-29,sedan,22,Ramses,4.66
+5073,2026-04-23,hatchback,13,Abdeen,
+5074,2026-06-12,sedan,57,Qalyub,4.19
+5075,2026-01-22,van,41,Heliopolis,4.19
+5076,2026-03-05,sedan,9,Agouza,4.49
+5077,2026-03-25,sedan,19,Shubra,4.57
+5078,2026-01-29,sedan,93,Heliopolis,4.35
+5079,2026-04-17,van,37,New Cairo,4.76
+5080,2026-01-25,sedan,40,Shubra,4.38
+5081,2026-02-28,hatchback,7,Zamalek,
+5082,2026-03-19,sedan,13,Agouza,4.5
+5083,2026-02-19,sedan,21,Khanka,
+5084,2026-03-08,hatchback,73,Tora,4.33
+5085,2026-04-03,sedan,3,Mohandessin,4.85
+5086,2026-04-24,sedan,19,Sheikh Zayed,4.76
+5087,2026-02-10,sedan,22,Heliopolis,4.19
+5088,2026-03-27,sedan,44,Maadi,4.56
+5089,2026-02-22,van,22,New Cairo,4.35
+5090,2026-02-23,hatchback,58,6th October,4.63
+5091,2026-04-10,sedan,54,Garden City,4.67
+5092,2026-03-05,sedan,44,Ramses,4.54
+5093,2026-01-27,hatchback,46,Nasr City,
+5094,2026-04-15,hatchback,27,Downtown,4.73
+5095,2026-02-16,sedan,56,Heliopolis,4.42
+5096,2026-03-19,hatchback,16,Maadi,4.72
+5097,2026-03-03,sedan,42,Zamalek,
+5098,2026-01-18,hatchback,47,Nasr City,
+5099,2026-04-03,hatchback,44,Badr City,4.52
+5100,2026-02-26,sedan,127,6th October,
+5101,2026-02-11,sedan,3,Shorouk,4.64
+5102,2026-02-25,sedan,35,Badr City,4.69
+5103,2026-03-11,sedan,16,Qalyub,4.55
+5104,2026-02-23,sedan,33,Nasr City,4.31
+5105,2026-03-24,sedan,14,Shorouk,4.53
+5106,2026-02-11,sedan,58,Shorouk,4.7
+5107,2026-03-23,sedan,36,Cairo Airport,4.53
+5108,2026-02-17,sedan,39,Downtown,4.24
+5109,2026-02-17,hatchback,5,Agouza,4.62
+5110,2026-02-19,hatchback,18,Shubra,4.19
+5111,2026-03-29,sedan,14,Zamalek,
+5112,2026-03-25,hatchback,50,Mohandessin,4.52
+5113,2026-01-21,hatchback,56,Mohandessin,4.53
+5114,2026-01-04,sedan,84,Nasr City,4.45
+5115,2026-03-25,hatchback,56,Maadi,4.51
+5116,2026-04-21,sedan,5,Helwan,4.55
+5117,2026-04-05,sedan,35,6th October,4.49
+5118,2026-04-22,sedan,21,Heliopolis,4.31
+5119,2026-02-20,van,38,Shorouk,4.41
+5120,2026-03-30,sedan,24,Agouza,
+5121,2026-03-07,van,26,Zamalek,4.45
+5122,2026-03-26,sedan,31,Badr City,
+5123,2026-02-02,sedan,50,Maadi,4.34
+5124,2026-04-25,hatchback,16,New Cairo,4.45
+5125,2026-04-14,sedan,38,Shubra,
+5126,2026-03-30,hatchback,89,Agouza,4.53
+5127,2026-04-12,sedan,17,Helwan,4.8
+5128,2026-03-10,sedan,78,Agouza,4.83
+5129,2026-04-01,sedan,25,Khanka,4.29
+5130,2026-02-26,sedan,53,Khanka,4.74
+5131,2026-05-09,sedan,43,Maadi,4.25
+5132,2026-04-03,sedan,11,Abdeen,
+5133,2026-03-08,sedan,64,Zamalek,
+5134,2026-05-31,sedan,19,New Cairo,4.43
+5135,2026-03-26,van,109,Agouza,4.28
+5136,2026-01-27,sedan,80,Mohandessin,
+5137,2026-03-23,hatchback,14,Garden City,4.75
+5138,2026-02-25,sedan,94,Agouza,4.51
+5139,2026-02-07,van,3,Nasr City,4.57
+5140,2026-04-21,hatchback,25,Shorouk,
+5141,2026-03-04,sedan,22,Ramses,4.67
+5142,2026-06-23,sedan,46,Khanka,4.69
+5143,2026-03-28,hatchback,14,Mohandessin,4.85
+5144,2026-04-11,sedan,22,Agouza,
+5145,2026-01-27,sedan,20,Mohandessin,4.42
+5146,2026-03-28,sedan,86,Maadi,4.32
+5147,2026-03-28,sedan,18,Qalyub,
+5148,2026-04-13,sedan,29,Cairo Airport,4.37
+5149,2026-04-15,sedan,34,Qalyub,4.81
+5150,2026-01-21,sedan,61,Shubra,4.33
+5151,2026-04-17,sedan,32,Abdeen,4.66
+5152,2026-04-10,hatchback,16,Nasr City,
+5153,2026-03-13,sedan,11,Heliopolis,4.9
+5154,2026-02-16,sedan,14,Agouza,4.13
+5155,2026-05-12,hatchback,26,Nasr City,4.41
+5156,2026-02-03,sedan,23,Shubra,4.64
+5157,2026-01-14,sedan,97,Downtown,
+5158,2026-02-13,sedan,53,Sheikh Zayed,
+5159,2026-01-19,hatchback,48,Zamalek,4.45
+5160,2026-04-13,sedan,33,Qalyub,
+5161,2026-03-30,sedan,54,Shorouk,4.54
+5162,2026-02-07,sedan,16,Obour,4.58
+5163,2026-02-15,hatchback,19,6th October,
+5164,2026-02-04,hatchback,19,Zamalek,4.46
+5165,2026-04-16,hatchback,4,Obour,4.55
+5166,2026-01-08,hatchback,86,New Cairo,4.76
+5167,2026-02-15,sedan,23,Nasr City,4.42
+5168,2026-02-24,sedan,32,Helwan,4.37
+5169,2026-01-24,sedan,55,New Cairo,4.44
+5170,2026-02-28,sedan,53,Abdeen,4.58
+5171,2026-02-14,sedan,27,Mohandessin,4.77
+5172,2026-03-07,hatchback,14,Shorouk,4.5
+5173,2026-03-18,sedan,18,Dokki,4.51
+5174,2026-03-22,sedan,68,Maadi,4.55
+5175,2026-02-17,sedan,35,Shubra,
+5176,2026-03-29,sedan,79,Abdeen,4.79
+5177,2026-04-22,sedan,26,Garden City,4.72
+5178,2026-06-28,sedan,25,6th October,4.47
+5179,2026-03-14,sedan,59,Obour,4.2
+5180,2026-01-26,sedan,58,Agouza,4.73
+5181,2026-01-08,van,109,Zamalek,
+5182,2026-03-16,sedan,49,Shubra,4.58
+5183,2026-03-09,sedan,22,Agouza,4.46
+5184,2026-02-01,sedan,31,Agouza,4.35
+5185,2026-04-08,sedan,11,Khanka,4.55
+5186,2026-04-14,van,9,Mohandessin,4.63
+5187,2026-07-22,hatchback,68,Tora,4.57
+5188,2026-03-26,hatchback,38,Garden City,4.68
+5189,2026-02-09,sedan,39,Cairo Airport,5.0
+5190,2026-03-22,sedan,54,Downtown,4.58
+5191,2026-03-28,sedan,56,Obour,4.59
+5192,2026-02-11,hatchback,39,Heliopolis,4.29
+5193,2026-01-24,sedan,57,Maadi,4.43
+5194,2026-03-25,sedan,60,Nasr City,4.6
+5195,2026-02-14,sedan,22,Badr City,4.63
+5196,2026-01-31,hatchback,62,Khanka,4.85
+5197,2026-08-07,sedan,60,Shubra,
+5198,2026-02-04,van,61,Zamalek,4.31
+5199,2026-03-10,hatchback,34,Helwan,
+5200,2026-03-31,sedan,17,Mohandessin,
+5201,2026-01-07,sedan,118,Zamalek,4.56
+5202,2026-04-04,sedan,42,Mohandessin,4.8
+5203,2026-04-21,hatchback,26,Nasr City,4.51
+5204,2026-03-21,van,32,New Cairo,
+5205,2026-02-28,sedan,28,Dokki,4.6
+5206,2026-02-13,sedan,52,Badr City,4.59
+5207,2025-12-29,hatchback,108,Shorouk,
+5208,2026-02-02,hatchback,73,Mohandessin,4.39
+5209,2026-02-04,sedan,85,Heliopolis,4.71
+5210,2026-02-11,sedan,87,Shubra,4.38
+5211,2026-04-16,hatchback,6,Obour,4.62
+5212,2026-04-17,sedan,29,Abdeen,5.0
+5213,2026-02-24,sedan,41,Downtown,4.46
+5214,2026-03-16,sedan,5,Dokki,4.75
+5215,2026-04-01,sedan,77,Downtown,
+5216,2026-03-04,sedan,58,Badr City,4.6
+5217,2026-03-20,hatchback,89,Mohandessin,4.58
+5218,2026-03-24,sedan,107,Abdeen,4.48
+5219,2026-02-04,sedan,34,Khanka,4.14
+5220,2026-02-03,sedan,140,Nasr City,4.28
+5221,2026-03-30,hatchback,13,Qalyub,4.47
+5222,2026-02-19,hatchback,97,Mohandessin,4.88
+5223,2026-02-18,hatchback,28,Ramses,4.58
+5224,2026-02-26,hatchback,14,Badr City,4.46
+5225,2026-02-22,sedan,29,Downtown,4.67
+5226,2026-03-01,van,31,Heliopolis,4.53
+5227,2026-01-22,hatchback,52,Khanka,4.53
+5228,2026-02-17,sedan,33,Nasr City,4.42
+5229,2026-01-21,van,34,Agouza,4.49
+5230,2026-03-21,van,44,Mohandessin,4.37
+5231,2026-02-10,hatchback,28,Garden City,
+5232,2026-01-15,sedan,57,Agouza,4.68
+5233,2026-03-13,sedan,8,Ramses,5.0
+5234,2026-02-07,sedan,59,Shubra,4.55
+5235,2026-03-11,hatchback,4,Downtown,
+5236,2026-03-15,hatchback,66,Dokki,4.69
+5237,2026-01-22,sedan,49,Qalyub,4.61
+5238,2026-03-30,sedan,61,Mohandessin,
+5239,2026-03-02,sedan,23,Khanka,4.67
+5240,2026-02-11,sedan,17,Obour,4.9
+5241,2026-02-03,sedan,10,Downtown,4.64
+5242,2026-04-14,sedan,25,Garden City,4.55
+5243,2026-02-07,sedan,76,Zamalek,4.62
+5244,2026-03-06,sedan,31,Helwan,4.56
+5245,2026-03-30,sedan,39,Heliopolis,4.43
+5246,2026-08-14,sedan,69,Khanka,4.52
+5247,2026-03-13,hatchback,86,Nasr City,
+5248,2026-03-10,sedan,37,Madinaty,
+5249,2026-02-01,hatchback,20,Zamalek,4.64
+5250,2026-03-28,sedan,39,Cairo Airport,4.72
+5251,2026-02-05,sedan,7,Qalyub,
+5252,2026-05-02,hatchback,69,Ramses,
+5253,2026-05-11,sedan,52,Shubra,
+5254,2026-03-11,sedan,85,Dokki,4.66
+5255,2026-02-16,hatchback,10,Agouza,4.55
+5256,2026-02-11,sedan,68,Mohandessin,4.52
+5257,2026-04-13,hatchback,42,Dokki,4.75
+5258,2026-04-01,hatchback,46,Dokki,4.23
+5259,2026-02-25,sedan,12,Madinaty,4.39
+5260,2026-03-16,hatchback,17,Madinaty,4.78
+5261,2026-03-02,sedan,28,Nasr City,4.39
+5262,2026-03-20,sedan,42,Shorouk,
+5263,2026-03-23,sedan,45,Zamalek,4.28
+5264,2026-03-24,hatchback,57,Dokki,4.27
+5265,2026-02-08,sedan,96,Nasr City,4.46
+5266,2026-02-26,sedan,87,Downtown,4.48
+5267,2026-01-24,sedan,29,Shubra,4.55
+5268,2026-07-20,sedan,54,Agouza,4.64
+5269,2026-03-15,sedan,42,Qalyub,
+5270,2026-04-01,sedan,49,Zamalek,
+5271,2026-03-14,van,32,Mohandessin,4.64
+5272,2026-03-01,sedan,11,New Cairo,
+5273,2026-01-29,sedan,58,Tora,4.72
+5274,2026-02-09,sedan,38,Madinaty,4.37
+5275,2026-02-08,sedan,48,6th October,4.47
+5276,2026-04-19,sedan,15,Helwan,5.0
+5277,2026-02-08,sedan,54,Nasr City,4.33
+5278,2026-02-20,sedan,10,Ramses,4.38
+5279,2026-02-28,sedan,32,Cairo Airport,4.54
+5280,2026-06-29,sedan,20,Abdeen,4.56
+5281,2026-01-23,sedan,41,Shorouk,4.57
+5282,2026-02-14,sedan,27,Downtown,4.58
+5283,2026-03-03,sedan,27,Shubra,4.6
+5284,2026-03-11,van,19,Agouza,4.46
+5285,2026-04-12,hatchback,17,Shorouk,4.66
+5286,2026-03-02,sedan,123,Maadi,
+5287,2026-02-27,sedan,44,Abdeen,4.62
+5288,2026-03-06,sedan,26,Ramses,4.41
+5289,2026-04-11,hatchback,9,Ramses,4.45
+5290,2026-02-06,hatchback,27,Dokki,4.71
+5291,2026-02-03,sedan,5,Mohandessin,4.7
+5292,2026-01-26,sedan,25,Maadi,4.57
+5293,2026-02-20,hatchback,53,Badr City,4.48
+5294,2026-03-09,sedan,11,Abdeen,4.38
+5295,2026-05-17,sedan,46,Dokki,4.16
+5296,2026-02-07,sedan,66,Ramses,4.43
+5297,2026-03-21,sedan,50,Garden City,
+5298,2026-03-06,sedan,3,Khanka,4.37
+5299,2026-01-27,sedan,51,Mohandessin,4.76
+5300,2026-01-28,van,15,Dokki,4.53
+5301,2026-03-12,sedan,21,Madinaty,4.7
+5302,2026-03-20,sedan,27,Zamalek,4.6
+5303,2026-03-23,hatchback,9,New Cairo,4.21
+5304,2026-03-02,van,56,Ramses,
+5305,2026-04-06,sedan,11,Abdeen,4.47
+5306,2026-06-19,sedan,22,Khanka,4.79
+5307,2026-02-27,sedan,65,Maadi,4.31
+5308,2026-04-11,hatchback,38,Ramses,4.46
+5309,2026-01-31,sedan,66,Dokki,
+5310,2026-03-21,sedan,14,Ramses,4.47
+5311,2026-03-25,sedan,23,Nasr City,4.75
+5312,2026-03-23,sedan,54,Badr City,4.85
+5313,2026-03-13,sedan,47,Shubra,4.61
+5314,2026-01-27,hatchback,32,Abdeen,4.33
+5315,2026-01-24,sedan,24,New Cairo,4.46
+5316,2026-04-11,van,26,Badr City,4.45
+5317,2026-02-01,sedan,19,Shubra,4.7
+5318,2026-02-06,van,56,Obour,4.58
+5319,2026-02-16,sedan,12,Heliopolis,
+5320,2026-04-11,sedan,28,Zamalek,4.69
+5321,2026-01-29,sedan,69,Cairo Airport,4.39
+5322,2026-04-06,sedan,10,Shorouk,
+5323,2026-04-22,van,27,Nasr City,4.81
+5324,2026-02-23,sedan,90,Maadi,4.45
+5325,2026-04-02,van,21,Heliopolis,4.37
+5326,2026-03-21,hatchback,26,Agouza,5.0
+5327,2026-02-11,sedan,34,6th October,4.61
+5328,2026-01-03,sedan,138,Khanka,4.38
+5329,2026-04-08,sedan,28,New Cairo,4.39
+5330,2026-02-15,hatchback,25,Helwan,4.54
+5331,2026-04-10,hatchback,34,Khanka,4.38
+5332,2026-02-05,sedan,50,Heliopolis,4.18
+5333,2026-01-04,hatchback,107,Zamalek,
+5334,2026-06-15,sedan,39,Downtown,
+5335,2026-03-31,sedan,77,Nasr City,4.93
+5336,2026-03-02,sedan,23,Sheikh Zayed,4.48
+5337,2026-01-29,sedan,11,Helwan,4.6
+5338,2026-03-24,sedan,36,Nasr City,4.42
+5339,2026-03-14,hatchback,4,New Cairo,4.78
+5340,2026-04-03,hatchback,47,Shubra,4.14
+5341,2026-04-17,sedan,22,Cairo Airport,4.77
+5342,2026-01-24,sedan,88,Ramses,4.23
+5343,2026-04-07,sedan,41,Maadi,
+5344,2026-05-27,sedan,54,Sheikh Zayed,4.32
+5345,2026-04-22,sedan,24,Nasr City,4.19
+5346,2026-02-20,sedan,16,Mohandessin,4.4
+5347,2026-07-15,sedan,41,New Cairo,4.72
+5348,2026-03-12,sedan,55,Agouza,
+5349,2026-02-02,van,70,Garden City,4.57
+5350,2026-03-19,sedan,24,Dokki,4.86
+5351,2026-03-21,sedan,68,Qalyub,4.52
+5352,2026-01-22,sedan,135,Agouza,4.49
+5353,2026-02-05,sedan,80,Nasr City,4.5
+5354,2026-02-28,sedan,41,Agouza,4.65
+5355,2026-04-05,hatchback,13,Agouza,4.61
+5356,2026-04-05,hatchback,57,Zamalek,4.57
+5357,2026-01-24,sedan,78,Qalyub,4.17
+5358,2026-03-21,sedan,33,Downtown,4.76
+5359,2026-04-21,sedan,17,Zamalek,
+5360,2026-03-03,sedan,6,Nasr City,4.63
+5361,2026-03-26,van,46,Shubra,4.71
+5362,2026-03-24,sedan,56,Helwan,4.66
+5363,2026-03-03,sedan,90,Obour,4.68
+5364,2026-05-05,sedan,26,Shorouk,4.73
+5365,2026-02-20,sedan,57,Abdeen,4.45
+5366,2026-03-28,sedan,74,Badr City,4.58
+5367,2026-03-22,sedan,30,Dokki,4.56
+5368,2026-04-13,van,10,6th October,4.45
+5369,2026-02-27,hatchback,61,Sheikh Zayed,
+5370,2026-04-18,sedan,3,Downtown,4.5
+5371,2026-02-17,sedan,102,Maadi,4.56
+5372,2026-03-26,van,41,Mohandessin,4.73
+5373,2026-04-09,van,18,Shubra,
+5374,2026-04-07,sedan,24,Ramses,4.55
+5375,2026-04-02,van,54,Agouza,4.47
+5376,2026-01-24,hatchback,53,Mohandessin,4.65
+5377,2026-02-07,hatchback,17,Zamalek,4.69
+5378,2026-03-06,sedan,62,Shubra,4.45
+5379,2026-01-28,sedan,58,Downtown,4.56
+5380,2026-05-09,sedan,43,Khanka,4.42
+5381,2026-03-21,hatchback,16,Sheikh Zayed,4.38
+5382,2026-02-04,sedan,16,Maadi,
+5383,2026-03-08,sedan,16,Mohandessin,4.5
+5384,2026-04-26,hatchback,1,Dokki,4.71
+5385,2026-01-30,sedan,32,Agouza,4.71
+5386,2026-02-15,hatchback,39,Maadi,
+5387,2026-04-19,hatchback,22,Madinaty,
+5388,2026-03-22,sedan,13,6th October,
+5389,2026-02-11,sedan,34,Mohandessin,4.42
+5390,2026-03-01,sedan,9,Agouza,4.5
+5391,2026-04-07,hatchback,32,Sheikh Zayed,4.62
+5392,2026-02-21,hatchback,57,Nasr City,4.45
+5393,2026-01-02,sedan,102,Sheikh Zayed,4.46
+5394,2026-04-16,hatchback,24,6th October,4.53
+5395,2026-03-30,hatchback,41,Zamalek,4.74
+5396,2026-02-12,sedan,5,Shubra,4.47
+5397,2026-02-18,sedan,52,Cairo Airport,4.4
+5398,2026-02-22,sedan,79,Cairo Airport,4.66
+5399,2026-03-27,sedan,42,Heliopolis,4.44
+5400,2026-03-01,sedan,21,New Cairo,4.62
+5401,2026-03-26,hatchback,39,Helwan,4.39
+5402,2026-01-13,sedan,76,Obour,4.36
+5403,2026-04-19,sedan,20,Zamalek,4.68
+5404,2026-03-09,sedan,34,Downtown,4.44
+5405,2026-02-14,hatchback,20,Agouza,4.36
+5406,2026-04-05,sedan,76,Maadi,
+5407,2026-01-21,sedan,39,Agouza,4.63
+5408,2026-03-18,hatchback,64,Madinaty,4.55
+5409,2026-01-23,van,45,Qalyub,4.73
+5410,2026-03-09,hatchback,27,Shorouk,4.19
+5411,2026-06-08,van,30,6th October,
+5412,2026-04-07,sedan,24,Sheikh Zayed,4.52
+5413,2026-04-01,hatchback,46,Shorouk,4.39
+5414,2026-02-26,sedan,56,Maadi,
+5415,2026-03-12,hatchback,19,Madinaty,4.47
+5416,2026-03-03,hatchback,53,Garden City,4.52
+5417,2026-04-16,sedan,28,Abdeen,4.73
+5418,2026-02-22,hatchback,30,Shorouk,4.48
+5419,2026-02-24,hatchback,14,Heliopolis,
+5420,2026-03-04,hatchback,54,Mohandessin,
+5421,2026-03-14,van,24,Ramses,4.44
+5422,2026-04-06,sedan,56,New Cairo,4.57
+5423,2026-05-16,sedan,69,Badr City,4.55
+5424,2026-04-01,sedan,36,Zamalek,4.45
+5425,2026-02-14,hatchback,20,Agouza,
+5426,2026-01-27,hatchback,54,Zamalek,
+5427,2026-03-11,hatchback,128,Shorouk,
+5428,2026-03-09,hatchback,37,Dokki,4.47
+5429,2026-02-23,sedan,33,Mohandessin,4.53
+5430,2026-04-02,van,42,Abdeen,4.42
+5431,2026-01-16,hatchback,63,Agouza,4.68
+5432,2026-04-17,hatchback,21,Garden City,4.34
+5433,2026-02-18,hatchback,69,Nasr City,4.66
+5434,2026-03-15,sedan,25,Heliopolis,4.31
+5435,2026-06-23,van,49,Cairo Airport,4.36
+5436,2026-02-17,sedan,6,Shubra,
+5437,2026-03-01,hatchback,52,Shorouk,4.75
+5438,2026-04-25,sedan,6,Abdeen,4.4
+5439,2026-02-06,sedan,7,Obour,4.58
+5440,2026-01-30,sedan,55,Dokki,4.84
+5441,2026-04-12,hatchback,46,Garden City,
+5442,2026-04-05,hatchback,78,Cairo Airport,4.58
+5443,2026-04-12,sedan,22,6th October,4.71
+5444,2026-02-06,van,12,6th October,4.81
+5445,2026-03-10,hatchback,39,Downtown,4.44
+5446,2026-04-15,sedan,15,Shorouk,4.33
+5447,2026-04-14,hatchback,45,Mohandessin,4.33
+5448,2026-03-13,sedan,46,Mohandessin,4.8
+5449,2026-01-16,sedan,75,Heliopolis,4.56
+5450,2026-01-05,sedan,83,Shorouk,4.59
+5451,2026-02-07,sedan,39,Dokki,4.67
+5452,2026-03-29,hatchback,23,Qalyub,4.49
+5453,2026-03-27,sedan,19,Dokki,4.31
+5454,2026-03-06,sedan,34,6th October,4.26
+5455,2026-02-14,hatchback,44,Downtown,4.66
+5456,2026-04-02,sedan,37,Khanka,
+5457,2026-02-28,van,4,New Cairo,4.44
+5458,2026-02-21,hatchback,35,Heliopolis,4.58
+5459,2026-03-15,sedan,49,Maadi,4.77
+5460,2026-03-27,sedan,17,Heliopolis,4.42
+5461,2026-02-06,sedan,18,Zamalek,4.75
+5462,2026-03-18,sedan,41,Heliopolis,
+5463,2026-03-28,hatchback,38,Agouza,4.64
+5464,2026-04-07,hatchback,8,Tora,4.35
+5465,2026-03-31,van,36,Heliopolis,4.53
+5466,2026-02-22,van,34,Dokki,
+5467,2026-04-11,sedan,56,Zamalek,4.71
+5468,2026-02-16,sedan,75,Mohandessin,5.0
+5469,2026-03-24,hatchback,18,Tora,4.47
+5470,2026-01-27,hatchback,17,Shubra,4.32
+5471,2026-02-08,hatchback,21,Ramses,4.59
+5472,2026-06-26,sedan,31,Dokki,4.56
+5473,2026-04-09,hatchback,44,Heliopolis,4.76
+5474,2026-04-05,hatchback,29,Agouza,4.54
+5475,2026-02-10,van,36,Nasr City,4.6
+5476,2026-01-22,hatchback,76,Tora,4.6
+5477,2026-03-31,sedan,37,Qalyub,4.41
+5478,2026-04-04,sedan,17,Shubra,
+5479,2026-02-15,sedan,28,Ramses,4.41
+5480,2026-07-18,hatchback,66,Heliopolis,4.35
+5481,2026-03-26,sedan,49,Nasr City,4.7
+5482,2026-01-27,sedan,26,Ramses,4.6
+5483,2026-05-16,hatchback,49,Madinaty,4.41
+5484,2026-03-31,sedan,71,Nasr City,4.73
+5485,2026-02-08,sedan,40,New Cairo,
+5486,2026-02-27,sedan,14,Mohandessin,4.63
+5487,2026-03-01,sedan,15,New Cairo,4.68
+5488,2026-02-09,sedan,55,Abdeen,4.67
+5489,2026-02-20,sedan,25,Zamalek,4.65
+5490,2026-03-26,hatchback,60,Shubra,4.86
+5491,2026-02-11,hatchback,56,Agouza,4.47
+5492,2026-02-28,hatchback,29,Maadi,
+5493,2026-02-26,van,38,Shubra,4.61
+5494,2026-06-20,hatchback,57,Heliopolis,4.7
+5495,2026-03-16,sedan,11,Shubra,4.71
+5496,2026-01-17,sedan,65,Shubra,4.64
+5497,2026-02-15,sedan,5,Shubra,4.56
+5498,2026-04-10,hatchback,52,Sheikh Zayed,4.62
+5499,2026-06-19,sedan,47,Downtown,4.75
+5500,2026-02-22,sedan,57,Helwan,
+5501,2026-02-19,sedan,46,Mohandessin,4.4
+5502,2026-02-10,sedan,77,Shubra,4.64
+5503,2026-03-21,van,106,Cairo Airport,4.62
+5504,2026-03-04,sedan,52,Agouza,4.62
+5505,2026-01-28,sedan,91,Helwan,4.44
+5506,2026-03-14,sedan,23,Zamalek,4.4
+5507,2026-03-11,van,16,Abdeen,4.94
+5508,2026-01-11,sedan,125,Khanka,4.57
+5509,2026-03-02,sedan,23,Garden City,4.9
+5510,2026-03-17,sedan,6,Khanka,4.54
+5511,2026-02-05,sedan,30,Maadi,4.72
+5512,2026-03-01,hatchback,21,Mohandessin,4.56
+5513,2026-03-09,sedan,28,Badr City,4.76
+5514,2026-03-21,sedan,12,Nasr City,4.59
+5515,2026-03-03,sedan,68,Agouza,4.64
+5516,2026-03-20,hatchback,44,Cairo Airport,4.41
+5517,2026-02-01,hatchback,43,Dokki,4.34
+5518,2026-02-21,sedan,41,Sheikh Zayed,4.57
+5519,2026-03-05,sedan,62,Nasr City,
+5520,2026-02-18,sedan,44,Shorouk,4.41
+5521,2026-05-29,sedan,11,Abdeen,4.76
+5522,2026-02-09,sedan,87,6th October,4.15
+5523,2026-03-02,hatchback,36,Khanka,4.55
+5524,2026-03-07,hatchback,21,New Cairo,4.42
+5525,2026-01-29,sedan,20,Agouza,4.74
+5526,2026-02-01,sedan,68,Nasr City,4.48
+5527,2026-04-22,sedan,19,Nasr City,
+5528,2026-01-04,sedan,91,Cairo Airport,4.56
+5529,2026-03-02,sedan,48,Dokki,4.7
+5530,2026-06-24,hatchback,25,Shorouk,4.53
+5531,2026-03-17,sedan,7,Agouza,4.52
+5532,2026-02-03,hatchback,53,Cairo Airport,4.59
+5533,2026-03-22,hatchback,14,Ramses,4.48
+5534,2026-03-19,sedan,43,New Cairo,4.54
+5535,2026-03-27,sedan,47,Qalyub,
+5536,2026-02-05,sedan,27,Obour,
+5537,2026-04-10,sedan,36,Agouza,
+5538,2026-03-15,hatchback,54,New Cairo,
+5539,2026-02-24,hatchback,12,Khanka,
+5540,2026-03-02,sedan,63,Cairo Airport,
+5541,2026-04-01,van,49,Dokki,4.45
+5542,2026-03-27,sedan,45,Cairo Airport,4.43
+5543,2026-03-11,sedan,71,Nasr City,4.31
+5544,2026-03-07,hatchback,35,Nasr City,4.65
+5545,2026-02-16,sedan,54,6th October,4.82
+5546,2026-03-23,hatchback,24,Abdeen,4.21
+5547,2026-04-18,sedan,9,Zamalek,4.41
+5548,2026-01-30,sedan,25,Garden City,4.38
+5549,2026-03-17,sedan,7,Nasr City,4.53
+5550,2026-02-21,hatchback,23,Sheikh Zayed,4.75
+5551,2026-02-24,sedan,34,Ramses,4.48
+5552,2026-03-03,sedan,70,Shorouk,4.72
+5553,2026-03-01,sedan,47,Heliopolis,4.43
+5554,2026-01-20,hatchback,81,Agouza,4.41
+5555,2026-03-28,van,23,Shorouk,4.43
+5556,2026-02-21,sedan,63,Heliopolis,4.5
+5557,2026-02-14,sedan,31,New Cairo,4.92
+5558,2026-02-24,sedan,10,Mohandessin,4.64
+5559,2026-03-08,hatchback,25,Qalyub,4.62
+5560,2026-02-08,sedan,50,Mohandessin,4.6
+5561,2026-03-09,hatchback,37,Mohandessin,
+5562,2026-01-25,sedan,26,Cairo Airport,4.26
+5563,2026-06-08,van,23,Abdeen,4.44
+5564,2026-01-29,van,9,Mohandessin,4.65
+5565,2026-03-23,sedan,11,Abdeen,4.75
+5566,2026-03-12,hatchback,82,Shorouk,4.9
+5567,2026-02-02,sedan,55,Shubra,4.49
+5568,2026-07-14,sedan,9,Khanka,4.72
+5569,2026-04-04,sedan,28,Nasr City,4.34
+5570,2026-03-16,sedan,41,Heliopolis,4.45
+5571,2026-03-26,sedan,25,Abdeen,
+5572,2026-02-02,sedan,53,Shorouk,
+5573,2026-03-22,hatchback,32,Garden City,4.42
+5574,2026-08-01,hatchback,54,Abdeen,4.75
+5575,2026-02-22,sedan,22,Abdeen,
+5576,2026-04-10,van,21,New Cairo,4.31
+5577,2026-04-19,sedan,29,Qalyub,4.44
+5578,2026-02-19,hatchback,12,Heliopolis,
+5579,2026-02-21,sedan,51,Sheikh Zayed,4.73
+5580,2026-01-21,sedan,72,Shubra,4.29
+5581,2026-04-13,hatchback,9,Ramses,
+5582,2026-02-11,sedan,89,Dokki,4.67
+5583,2026-03-12,van,11,Madinaty,4.55
+5584,2026-03-11,sedan,10,Zamalek,4.44
+5585,2026-04-14,hatchback,13,Ramses,4.49
+5586,2026-05-31,hatchback,42,Obour,4.65
+5587,2026-03-18,hatchback,4,Zamalek,4.52
+5588,2026-03-17,hatchback,2,Agouza,4.3
+5589,2026-01-28,van,48,Madinaty,4.39
+5590,2026-01-26,hatchback,28,Zamalek,4.77
+5591,2026-04-11,sedan,8,New Cairo,4.37
+5592,2026-01-25,hatchback,61,Zamalek,
+5593,2026-02-16,sedan,59,New Cairo,4.58
+5594,2026-02-10,sedan,7,Agouza,4.67
+5595,2026-04-04,sedan,62,Garden City,
+5596,2026-03-26,sedan,40,Cairo Airport,
+5597,2026-02-23,van,2,Maadi,4.79
+5598,2026-04-13,hatchback,16,Dokki,4.55
+5599,2026-02-03,sedan,5,Garden City,4.59
+5600,2026-04-22,sedan,22,Downtown,4.41
+5601,2026-02-25,sedan,61,6th October,4.34
+5602,2026-07-28,sedan,17,Helwan,
+5603,2026-04-16,sedan,41,Nasr City,4.55
+5604,2026-02-08,van,5,Dokki,4.67
+5605,2026-02-18,van,20,Dokki,4.25
+5606,2026-03-20,hatchback,33,New Cairo,4.83
+5607,2026-02-13,van,29,Downtown,4.87
+5608,2026-02-07,van,46,Sheikh Zayed,4.55
+5609,2026-06-06,van,73,Dokki,4.43
+5610,2026-03-13,sedan,72,Ramses,4.45
+5611,2026-03-31,sedan,16,Zamalek,
+5612,2026-03-05,hatchback,9,Zamalek,
+5613,2026-07-08,sedan,70,Zamalek,4.61
+5614,2026-03-29,van,27,Ramses,4.14
+5615,2026-02-24,sedan,54,Abdeen,4.95
+5616,2026-03-18,sedan,44,Madinaty,4.51
+5617,2026-02-04,van,34,Nasr City,4.33
+5618,2026-02-24,sedan,26,6th October,
+5619,2026-03-02,sedan,12,Zamalek,4.44
+5620,2026-03-21,hatchback,36,Shubra,
+5621,2026-03-08,van,20,Ramses,
+5622,2026-02-13,van,96,Dokki,
+5623,2026-01-23,sedan,38,Heliopolis,4.38
+5624,2026-02-20,van,49,Helwan,4.48
+5625,2026-04-05,sedan,44,Shorouk,4.46
+5626,2026-03-26,sedan,31,Ramses,4.56
+5627,2026-02-01,hatchback,37,New Cairo,
+5628,2026-02-03,sedan,48,Shorouk,
+5629,2026-07-29,hatchback,14,Maadi,4.65
+5630,2026-02-11,sedan,105,Abdeen,
+5631,2026-03-26,sedan,21,Abdeen,4.92
+5632,2026-02-19,sedan,13,Downtown,4.73
+5633,2026-04-07,sedan,24,Cairo Airport,4.79
+5634,2026-04-24,sedan,12,Agouza,4.52
+5635,2026-07-19,van,57,Garden City,4.77
+5636,2026-02-14,sedan,55,Agouza,
+5637,2026-03-29,hatchback,6,Nasr City,4.38
+5638,2026-07-28,sedan,55,Qalyub,4.31
+5639,2026-02-16,sedan,27,Helwan,4.65
+5640,2026-03-09,sedan,41,Madinaty,4.58
+5641,2026-02-08,van,45,Maadi,4.64
+5642,2026-01-12,sedan,62,Madinaty,4.48
+5643,2026-02-15,sedan,30,Abdeen,4.46
+5644,2026-03-19,sedan,57,Mohandessin,4.87
+5645,2026-02-13,hatchback,23,Abdeen,4.5
+5646,2026-03-13,sedan,28,Nasr City,
+5647,2026-01-25,sedan,44,Cairo Airport,4.44
+5648,2026-04-08,hatchback,5,Obour,4.69
+5649,2026-03-15,sedan,64,6th October,4.5
+5650,2026-03-23,sedan,66,Heliopolis,4.84
+5651,2026-03-28,van,44,Zamalek,
+5652,2026-03-28,sedan,43,Zamalek,
+5653,2026-04-07,sedan,8,Shorouk,4.37
+5654,2026-03-14,sedan,15,Khanka,
+5655,2026-01-21,sedan,73,Zamalek,4.17
+5656,2026-04-01,sedan,57,Ramses,4.46
+5657,2026-03-18,sedan,29,Madinaty,4.79
+5658,2026-03-12,hatchback,17,Madinaty,4.49
+5659,2026-06-10,van,33,Agouza,4.59
+5660,2026-02-18,sedan,68,Maadi,5.0
+5661,2026-02-04,sedan,14,Agouza,4.67
+5662,2026-04-02,sedan,65,Zamalek,4.55
+5663,2026-03-14,van,51,Badr City,4.34
+5664,2026-03-31,sedan,24,Heliopolis,4.26
+5665,2026-04-02,sedan,18,Helwan,4.23
+5666,2026-03-24,hatchback,22,Agouza,4.78
+5667,2026-01-22,sedan,61,Agouza,4.63
+5668,2026-02-07,hatchback,61,Sheikh Zayed,4.4
+5669,2026-07-07,sedan,57,Agouza,4.6
+5670,2026-08-13,sedan,25,Zamalek,4.34
+5671,2026-04-18,hatchback,39,Heliopolis,4.48
+5672,2026-03-20,sedan,27,Badr City,4.4
+5673,2026-02-03,sedan,48,Shubra,4.22
+5674,2026-03-01,hatchback,18,Mohandessin,
+5675,2026-02-10,sedan,56,Obour,4.53
+5676,2026-07-25,sedan,48,Obour,4.33
+5677,2026-04-05,hatchback,14,Shorouk,4.42
+5678,2026-03-05,sedan,38,Garden City,4.43
+5679,2026-04-17,sedan,38,Abdeen,4.49
+5680,2026-02-26,hatchback,25,Maadi,
+5681,2026-01-01,sedan,106,Garden City,4.76
+5682,2026-03-02,sedan,140,New Cairo,
+5683,2026-03-16,sedan,75,Abdeen,4.58
+5684,2026-04-11,sedan,11,Ramses,4.69
+5685,2026-04-02,sedan,32,Obour,4.43
+5686,2026-03-16,sedan,20,Ramses,
+5687,2026-03-01,hatchback,14,Dokki,5.0
+5688,2026-04-15,sedan,17,Abdeen,
+5689,2026-05-04,sedan,26,Abdeen,4.61
+5690,2026-03-07,sedan,34,Madinaty,4.57
+5691,2026-04-15,van,40,Cairo Airport,4.24
+5692,2026-03-22,sedan,48,Cairo Airport,4.98
+5693,2026-02-15,sedan,17,Heliopolis,4.7
+5694,2026-02-09,sedan,56,Downtown,4.67
+5695,2026-02-22,sedan,44,Dokki,4.76
+5696,2026-02-23,hatchback,16,Shubra,4.49
+5697,2026-05-10,sedan,10,Agouza,4.79
+5698,2026-03-17,hatchback,27,Maadi,4.24
+5699,2026-08-05,van,35,Garden City,4.35
+5700,2026-02-25,sedan,29,Shubra,4.51
+5701,2026-04-02,van,44,Zamalek,4.47
+5702,2026-01-11,sedan,136,Downtown,
+5703,2026-03-12,van,40,Garden City,4.56
+5704,2026-03-22,hatchback,35,Downtown,4.71
+5705,2026-02-23,sedan,31,Dokki,4.67
+5706,2026-07-21,hatchback,20,Agouza,4.33
+5707,2026-02-22,hatchback,44,Nasr City,4.29
+5708,2026-03-07,sedan,77,Heliopolis,4.52
+5709,2026-02-05,hatchback,18,Madinaty,4.72
+5710,2026-04-06,hatchback,13,Shorouk,
+5711,2026-03-03,sedan,74,Maadi,4.47
+5712,2026-02-22,van,46,Zamalek,
+5713,2026-03-06,sedan,105,Heliopolis,4.5
+5714,2026-01-23,van,39,Maadi,4.75
+5715,2026-02-01,sedan,64,Zamalek,
+5716,2026-03-17,van,6,Abdeen,4.0
+5717,2026-04-20,sedan,16,Downtown,4.89
+5718,2026-05-03,sedan,21,Mohandessin,4.66
+5719,2026-01-16,sedan,52,Cairo Airport,4.46
+5720,2026-02-18,sedan,15,Zamalek,4.59
+5721,2026-03-01,hatchback,64,Heliopolis,
+5722,2026-02-23,hatchback,59,Maadi,4.74
+5723,2026-04-05,sedan,5,New Cairo,4.46
+5724,2026-07-24,sedan,59,Shubra,4.59
+5725,2026-04-25,hatchback,8,Maadi,4.44
+5726,2026-02-08,hatchback,26,Mohandessin,4.65
+5727,2026-04-06,sedan,31,Dokki,4.84
+5728,2026-04-04,sedan,68,Shorouk,4.8
+5729,2026-03-07,hatchback,55,Cairo Airport,
+5730,2026-02-24,sedan,9,Garden City,
+5731,2026-03-02,hatchback,29,Nasr City,4.73
+5732,2026-02-20,hatchback,54,Abdeen,4.22
+5733,2026-01-22,hatchback,30,Maadi,4.49
+5734,2026-02-06,hatchback,12,Cairo Airport,4.31
+5735,2026-04-16,sedan,16,Ramses,4.27
+5736,2026-03-05,sedan,18,Garden City,4.69
+5737,2026-03-20,sedan,42,Agouza,4.37
+5738,2026-02-17,van,111,Nasr City,4.65
+5739,2026-02-22,sedan,28,Garden City,4.37
+5740,2026-04-05,sedan,19,Tora,
+5741,2026-03-24,sedan,49,Heliopolis,4.65
+5742,2026-03-07,hatchback,67,6th October,4.54
+5743,2026-03-30,sedan,13,Dokki,4.49
+5744,2026-03-04,van,15,Cairo Airport,4.56
+5745,2026-01-23,sedan,43,Madinaty,4.78
+5746,2026-02-02,sedan,16,Maadi,4.78
+5747,2026-04-05,sedan,17,Nasr City,4.43
+5748,2026-03-10,hatchback,82,Shorouk,4.46
+5749,2026-06-03,van,64,Heliopolis,3.9
+5750,2026-02-21,sedan,13,Dokki,4.92
+5751,2026-03-08,sedan,29,Badr City,4.62
+5752,2026-01-28,sedan,66,Downtown,4.52
+5753,2026-07-31,hatchback,60,Heliopolis,4.65
+5754,2026-03-29,van,72,Sheikh Zayed,4.6
+5755,2026-03-12,sedan,28,Helwan,4.56
+5756,2026-03-21,van,25,Shorouk,4.7
+5757,2026-04-09,sedan,20,Garden City,4.23
+5758,2026-02-05,hatchback,4,Badr City,4.82
+5759,2026-03-24,sedan,35,Garden City,4.6
+5760,2026-03-28,hatchback,62,New Cairo,4.58
+5761,2026-02-09,sedan,106,Mohandessin,4.7
+5762,2026-01-30,sedan,13,Agouza,
+5763,2026-04-14,hatchback,42,Mohandessin,5.0
+5764,2026-06-07,sedan,62,Garden City,4.36
+5765,2026-03-01,sedan,11,Tora,4.5
+5766,2026-02-08,van,20,Agouza,4.81
+5767,2026-03-31,sedan,69,Shorouk,4.48
+5768,2026-04-09,hatchback,65,Shubra,4.76
+5769,2026-04-09,sedan,46,Maadi,4.76
+5770,2026-01-30,sedan,45,Tora,4.31
+5771,2026-02-19,sedan,37,Nasr City,4.41
+5772,2026-04-01,sedan,29,Shubra,4.73
+5773,2026-02-01,hatchback,39,Zamalek,
+5774,2026-08-03,hatchback,55,Zamalek,4.69
+5775,2026-02-05,hatchback,51,Dokki,4.54
+5776,2026-04-09,sedan,32,Khanka,4.47
+5777,2026-03-23,hatchback,10,Badr City,4.68
+5778,2026-02-08,hatchback,26,Heliopolis,5.0
+5779,2026-02-24,sedan,23,Abdeen,4.5
+5780,2026-04-05,sedan,11,Agouza,4.48
+5781,2026-03-26,sedan,49,Agouza,4.48
+5782,2026-02-04,sedan,7,Ramses,4.4
+5783,2026-04-02,sedan,14,Downtown,4.87
+5784,2026-02-16,hatchback,40,Sheikh Zayed,4.45
+5785,2026-03-02,hatchback,24,Garden City,4.73
+5786,2026-03-16,sedan,52,Shubra,4.75
+5787,2026-01-31,sedan,69,Nasr City,4.7
+5788,2026-05-23,hatchback,48,Khanka,4.66
+5789,2026-03-26,sedan,33,Nasr City,4.35
+5790,2026-05-15,sedan,64,Badr City,4.6
+5791,2026-04-17,sedan,2,Qalyub,4.63
+5792,2026-03-29,sedan,61,Sheikh Zayed,4.56
+5793,2026-02-18,sedan,60,Dokki,
+5794,2026-03-29,hatchback,21,Zamalek,4.64
+5795,2026-03-28,van,15,Khanka,4.77
+5796,2026-03-16,sedan,27,Mohandessin,4.74
+5797,2026-04-08,hatchback,51,Sheikh Zayed,4.83
+5798,2026-02-19,sedan,60,Zamalek,4.47
+5799,2026-03-09,sedan,10,Shorouk,4.8
+5800,2026-04-06,sedan,27,Mohandessin,4.49
+5801,2026-03-13,hatchback,29,Agouza,
+5802,2026-02-22,hatchback,9,Obour,4.93
+5803,2026-04-06,van,29,Madinaty,4.54
+5804,2026-02-13,sedan,49,Ramses,4.14
+5805,2026-08-04,sedan,21,Nasr City,4.23
+5806,2026-02-22,hatchback,12,Tora,4.43
+5807,2026-02-05,sedan,36,Garden City,4.46
+5808,2026-02-27,hatchback,31,Maadi,4.48
+5809,2026-03-08,hatchback,8,Maadi,4.36
+5810,2026-04-12,hatchback,13,Tora,
+5811,2026-02-21,van,90,Dokki,
+5812,2026-02-11,sedan,16,Badr City,4.37
+5813,2026-04-12,hatchback,27,Downtown,
+5814,2026-02-28,sedan,37,Downtown,4.75
+5815,2026-01-20,hatchback,88,6th October,
+5816,2026-07-10,hatchback,50,Downtown,
+5817,2026-01-29,sedan,28,Madinaty,4.36
+5818,2026-03-17,hatchback,28,Nasr City,4.67
+5819,2026-04-03,hatchback,12,Helwan,4.43
+5820,2026-03-03,hatchback,41,Madinaty,
+5821,2026-01-31,sedan,34,Cairo Airport,4.64
+5822,2026-02-23,hatchback,41,Cairo Airport,4.45
+5823,2026-03-04,sedan,31,Nasr City,
+5824,2026-04-20,sedan,33,Garden City,
+5825,2026-02-27,hatchback,33,Zamalek,4.38
+5826,2026-02-21,van,48,Nasr City,4.43
+5827,2026-04-03,hatchback,10,Heliopolis,4.46
+5828,2026-01-26,hatchback,37,Qalyub,4.45
+5829,2026-04-13,hatchback,35,Nasr City,4.54
+5830,2026-01-15,sedan,59,Shorouk,4.4
+5831,2026-04-09,sedan,31,Zamalek,4.34
+5832,2026-03-15,sedan,25,Downtown,4.68
+5833,2026-07-05,sedan,20,Mohandessin,4.62
+5834,2026-03-15,sedan,58,Maadi,4.47
+5835,2026-03-07,sedan,27,Mohandessin,4.62
+5836,2026-01-15,hatchback,51,Mohandessin,4.43
+5837,2026-03-25,sedan,41,Cairo Airport,4.57
+5838,2026-03-11,sedan,43,Dokki,4.71
+5839,2026-04-19,sedan,19,Maadi,4.59
+5840,2026-02-02,sedan,15,Ramses,
+5841,2026-03-02,sedan,56,Cairo Airport,4.97
+5842,2026-02-08,hatchback,50,Zamalek,4.26
+5843,2026-03-21,sedan,21,Dokki,4.59
+5844,2026-03-06,sedan,5,Madinaty,4.31
+5845,2026-04-10,sedan,47,Dokki,4.66
+5846,2026-02-04,hatchback,18,Qalyub,4.41
+5847,2026-01-27,sedan,124,Obour,4.62
+5848,2026-02-06,sedan,2,New Cairo,4.53
+5849,2026-03-21,sedan,38,Qalyub,
+5850,2026-03-05,sedan,20,Cairo Airport,4.94
+5851,2026-01-31,sedan,78,Heliopolis,4.57
+5852,2026-03-16,sedan,43,Ramses,
+5853,2026-07-14,sedan,3,Cairo Airport,4.6
+5854,2026-04-05,hatchback,14,Madinaty,4.4
+5855,2026-03-21,hatchback,19,Cairo Airport,
+5856,2026-03-05,sedan,39,Dokki,4.52
+5857,2026-01-16,sedan,84,Agouza,4.58
+5858,2026-05-09,sedan,28,New Cairo,4.41
+5859,2026-01-14,sedan,135,Agouza,4.81
+5860,2026-02-03,sedan,13,Downtown,4.7
+5861,2026-02-13,sedan,77,Mohandessin,4.71
+5862,2026-02-19,sedan,57,Sheikh Zayed,4.29
+5863,2026-04-07,sedan,34,Heliopolis,4.6
+5864,2026-06-01,sedan,12,Shorouk,4.35
+5865,2026-03-14,sedan,28,Heliopolis,4.37
+5866,2026-04-18,sedan,15,Nasr City,4.54
+5867,2026-04-10,sedan,18,Shubra,4.85
+5868,2026-03-16,sedan,12,Mohandessin,4.32
+5869,2026-02-27,van,5,Downtown,4.78
+5870,2026-05-09,sedan,44,Garden City,4.43
+5871,2026-02-25,sedan,25,6th October,4.86
+5872,2026-04-12,sedan,5,Shubra,4.29
+5873,2026-03-24,sedan,38,Nasr City,4.74
+5874,2026-02-17,sedan,14,Maadi,4.38
+5875,2026-03-04,hatchback,40,Abdeen,4.68
+5876,2026-02-19,sedan,5,Zamalek,4.77
+5877,2026-04-07,sedan,39,Garden City,4.61
+5878,2026-01-26,sedan,23,Zamalek,4.66
+5879,2026-01-16,sedan,72,Maadi,
+5880,2026-03-10,hatchback,7,Obour,4.61
+5881,2026-02-18,sedan,22,Agouza,4.88
+5882,2026-02-06,sedan,27,Shorouk,
+5883,2026-02-22,hatchback,9,Tora,4.59
+5884,2026-01-17,sedan,53,Qalyub,4.69
+5885,2026-04-01,hatchback,20,Helwan,4.75
+5886,2026-04-08,hatchback,55,Obour,4.57
+5887,2026-03-03,hatchback,41,Heliopolis,4.27
+5888,2026-01-20,sedan,71,Ramses,
+5889,2026-04-18,hatchback,25,Shorouk,4.56
+5890,2026-02-10,van,49,Madinaty,4.67
+5891,2026-03-20,hatchback,68,Zamalek,4.69
+5892,2026-02-25,sedan,34,Zamalek,4.5
+5893,2026-03-03,sedan,65,Mohandessin,4.33
+5894,2026-04-05,hatchback,5,Qalyub,4.59
+5895,2026-05-29,sedan,11,Abdeen,4.28
+5896,2026-02-01,sedan,20,Sheikh Zayed,4.6
+5897,2026-02-10,sedan,15,Zamalek,4.47
+5898,2026-02-03,sedan,58,Qalyub,4.39
+5899,2026-02-01,van,12,Mohandessin,4.46
+5900,2026-03-03,sedan,46,6th October,
+5901,2026-04-12,sedan,40,Garden City,4.44
+5902,2026-02-13,sedan,58,Dokki,
+5903,2026-01-23,sedan,66,Mohandessin,4.3
+5904,2026-04-08,sedan,36,Mohandessin,4.32
+5905,2026-02-20,van,22,Garden City,4.57
+5906,2026-02-03,hatchback,32,Khanka,4.66
+5907,2026-02-20,van,27,Zamalek,4.56
+5908,2026-07-13,sedan,30,Obour,4.94
+5909,2026-01-10,hatchback,108,Maadi,
+5910,2026-03-14,sedan,57,New Cairo,4.23
+5911,2026-03-11,hatchback,46,Garden City,4.71
+5912,2026-03-02,sedan,21,Garden City,4.5
+5913,2026-02-28,hatchback,76,Downtown,4.48
+5914,2026-02-22,van,27,Mohandessin,4.51
+5915,2026-03-31,hatchback,6,Mohandessin,
+5916,2026-05-31,sedan,20,Qalyub,4.67
+5917,2026-02-05,sedan,53,Abdeen,4.73
+5918,2026-03-20,hatchback,27,Zamalek,4.63
+5919,2026-04-17,hatchback,11,Zamalek,4.74
+5920,2026-07-01,sedan,81,Dokki,
+5921,2026-01-30,van,29,Qalyub,4.86
+5922,2026-01-19,hatchback,52,Shorouk,4.61
+5923,2026-02-14,sedan,26,Garden City,4.45
+5924,2026-03-21,sedan,40,Tora,4.28
+5925,2026-02-02,hatchback,76,Heliopolis,4.68
+5926,2026-01-27,sedan,36,Mohandessin,4.35
+5927,2026-02-11,hatchback,27,Nasr City,4.67
+5928,2026-02-20,sedan,13,Mohandessin,
+5929,2026-03-08,hatchback,11,Maadi,4.61
+5930,2026-03-22,sedan,108,Helwan,4.52
+5931,2026-03-21,sedan,50,Helwan,
+5932,2026-03-07,hatchback,20,Abdeen,4.55
+5933,2026-04-23,sedan,2,Garden City,
+5934,2026-02-07,hatchback,31,Nasr City,4.74
+5935,2026-04-16,sedan,20,Shorouk,4.66
+5936,2026-03-11,sedan,29,Mohandessin,4.48
+5937,2026-02-08,sedan,65,Garden City,4.37
+5938,2026-03-24,sedan,52,Helwan,4.58
+5939,2026-02-28,hatchback,30,Madinaty,4.63
+5940,2026-05-15,sedan,7,Agouza,
+5941,2026-01-31,van,16,Ramses,
+5942,2026-03-25,sedan,79,Badr City,4.33
+5943,2026-04-11,van,54,Garden City,4.41
+5944,2026-04-03,sedan,24,Heliopolis,4.51
+5945,2026-04-11,sedan,25,Mohandessin,4.28
+5946,2026-01-31,sedan,16,Heliopolis,4.59
+5947,2026-01-28,sedan,27,Mohandessin,4.49
+5948,2026-02-14,sedan,8,Shubra,
+5949,2026-04-12,hatchback,33,Sheikh Zayed,
+5950,2026-01-23,sedan,34,Nasr City,4.84
+5951,2026-02-27,sedan,88,Badr City,
+5952,2026-04-01,sedan,32,Agouza,
+5953,2026-02-23,sedan,8,Agouza,4.42
+5954,2026-04-06,van,35,Ramses,4.58
+5955,2026-03-26,sedan,63,Heliopolis,4.74
+5956,2026-04-03,sedan,20,Nasr City,
+5957,2026-01-14,van,78,Cairo Airport,4.34
+5958,2026-03-11,hatchback,2,Sheikh Zayed,4.36
+5959,2026-03-22,sedan,3,Shubra,
+5960,2026-04-03,sedan,27,Maadi,4.62
+5961,2026-02-25,sedan,26,Ramses,4.58
+5962,2026-01-16,hatchback,53,Madinaty,4.62
+5963,2026-03-24,hatchback,28,New Cairo,4.63
+5964,2026-03-04,sedan,17,Heliopolis,
+5965,2026-02-25,sedan,71,Downtown,4.95
+5966,2026-01-28,van,14,Maadi,4.52
+5967,2026-02-27,hatchback,12,Shubra,
+5968,2026-03-08,sedan,25,Shorouk,
+5969,2026-05-16,sedan,42,Obour,4.71
+5970,2026-02-16,sedan,13,Qalyub,4.67
+5971,2026-02-25,hatchback,56,Downtown,4.8
+5972,2026-02-17,hatchback,29,Shorouk,4.64
+5973,2026-07-13,sedan,87,New Cairo,
+5974,2026-04-07,sedan,25,Abdeen,4.67
+5975,2026-03-28,sedan,8,Dokki,4.45
+5976,2026-06-10,van,63,6th October,
+5977,2026-02-13,van,27,New Cairo,4.6
+5978,2026-03-08,van,21,Mohandessin,
+5979,2026-02-13,hatchback,33,Mohandessin,4.42
+5980,2026-01-30,sedan,13,Sheikh Zayed,
+5981,2026-02-19,sedan,10,Nasr City,4.67
+5982,2026-03-28,sedan,34,Maadi,4.73
+5983,2026-04-26,sedan,10,Agouza,4.42
+5984,2026-03-16,hatchback,55,Dokki,4.53
+5985,2026-03-05,sedan,67,Mohandessin,4.8
+5986,2026-04-06,sedan,42,Garden City,4.56
+5987,2026-04-11,sedan,41,Ramses,4.56
+5988,2026-01-20,hatchback,44,Badr City,4.68
+5989,2026-02-27,van,28,Ramses,4.58
+5990,2026-02-04,hatchback,28,Mohandessin,4.93
+5991,2026-03-30,sedan,59,Obour,4.35
+5992,2026-03-19,sedan,14,Madinaty,4.61
+5993,2026-03-16,hatchback,35,Sheikh Zayed,4.47
+5994,2026-04-12,sedan,31,Agouza,4.2
+5995,2026-01-29,sedan,49,Downtown,
+5996,2026-01-21,hatchback,50,Ramses,4.47
+5997,2026-02-16,sedan,34,Agouza,4.46
+5998,2026-04-20,sedan,15,Badr City,
+5999,2026-04-11,hatchback,38,Garden City,
+6000,2026-03-06,hatchback,7,Zamalek,
+6001,2026-03-06,sedan,33,Madinaty,4.57
+6002,2026-01-09,hatchback,77,Zamalek,4.53
+6003,2026-03-04,sedan,37,Downtown,
+6004,2026-02-08,van,34,Heliopolis,
+6005,2026-03-18,sedan,115,Shorouk,4.55
+6006,2026-03-14,sedan,75,Agouza,4.31
+6007,2026-04-07,sedan,15,Sheikh Zayed,4.68
+6008,2026-03-04,sedan,20,Ramses,4.64
+6009,2026-03-31,hatchback,33,Nasr City,4.14
+6010,2026-03-11,sedan,7,Khanka,
+6011,2026-03-03,sedan,24,Tora,4.39
+6012,2026-03-31,van,19,Cairo Airport,4.65
+6013,2026-04-07,hatchback,44,Obour,4.32
+6014,2026-02-14,sedan,52,Helwan,4.63
+6015,2026-03-19,sedan,42,Ramses,4.68
+6016,2026-02-22,sedan,10,Obour,4.47
+6017,2026-01-13,hatchback,109,Zamalek,4.55
+6018,2026-02-07,sedan,30,Khanka,4.85
+6019,2026-02-25,van,71,Sheikh Zayed,4.85
+6020,2026-05-28,sedan,50,Shubra,4.5
+6021,2026-03-29,hatchback,62,New Cairo,4.27
+6022,2026-03-25,sedan,17,Garden City,4.55
+6023,2026-01-31,hatchback,71,Sheikh Zayed,4.74
+6024,2026-02-18,hatchback,54,Mohandessin,4.34
+6025,2026-02-17,sedan,17,Cairo Airport,
+6026,2026-03-03,sedan,18,Madinaty,4.52
+6027,2026-02-13,sedan,56,Mohandessin,4.43
+6028,2026-02-22,sedan,25,Heliopolis,4.37
+6029,2026-04-02,van,46,Shubra,
+6030,2026-03-27,sedan,25,Heliopolis,
+6031,2026-02-12,sedan,88,Helwan,4.86
+6032,2026-01-16,hatchback,140,Agouza,4.42
+6033,2026-02-22,sedan,13,Downtown,4.48
+6034,2026-08-02,sedan,55,Helwan,4.83
+6035,2026-03-16,sedan,16,Nasr City,4.59
+6036,2026-03-26,sedan,28,Badr City,4.56
+6037,2026-03-24,sedan,57,Maadi,4.81
+6038,2026-03-03,van,42,Mohandessin,4.42
+6039,2026-03-06,hatchback,76,Mohandessin,
+6040,2026-03-26,sedan,16,Nasr City,4.29
+6041,2026-02-14,sedan,27,Maadi,4.53
+6042,2026-03-26,sedan,41,Heliopolis,4.92
+6043,2026-03-05,hatchback,76,Shubra,4.36
+6044,2026-03-17,sedan,34,Ramses,4.58
+6045,2026-05-26,sedan,19,Dokki,
+6046,2026-03-14,sedan,43,Maadi,
+6047,2026-02-02,hatchback,58,Obour,4.55
+6048,2026-04-05,sedan,61,Maadi,4.62
+6049,2026-03-23,van,55,New Cairo,4.66
+6050,2026-01-19,van,53,Sheikh Zayed,
+6051,2026-04-14,van,49,Garden City,4.47
+6052,2026-03-16,sedan,35,Obour,4.55
+6053,2026-04-21,sedan,18,Madinaty,4.49
+6054,2026-02-23,sedan,22,Nasr City,4.75
+6055,2026-02-20,hatchback,63,Madinaty,4.78
+6056,2026-03-26,sedan,54,Khanka,
+6057,2026-03-08,sedan,30,Agouza,4.89
+6058,2026-01-14,hatchback,60,Mohandessin,
+6059,2026-02-16,hatchback,18,Agouza,4.71
+6060,2026-04-03,van,64,Agouza,4.1
+6061,2026-03-04,sedan,47,Ramses,4.26
+6062,2026-03-19,hatchback,35,Nasr City,4.36
+6063,2026-02-28,sedan,60,Zamalek,
+6064,2026-02-21,sedan,18,Mohandessin,4.01
+6065,2026-03-28,hatchback,37,Agouza,4.66
+6066,2026-03-10,sedan,128,Garden City,4.44
+6067,2026-02-08,sedan,29,Heliopolis,4.53
+6068,2026-02-08,sedan,12,Agouza,4.68
+6069,2026-02-11,sedan,51,Sheikh Zayed,4.76
+6070,2026-02-05,sedan,43,Cairo Airport,4.96
+6071,2026-01-23,sedan,87,Heliopolis,4.4
+6072,2026-03-07,hatchback,52,Shorouk,4.51
+6073,2026-07-07,hatchback,36,6th October,4.35
+6074,2026-01-31,hatchback,140,Nasr City,4.57
+6075,2026-04-15,sedan,25,Mohandessin,4.65
+6076,2026-03-02,hatchback,58,Dokki,4.69
+6077,2026-03-14,hatchback,27,Zamalek,4.91
+6078,2026-03-27,sedan,50,Qalyub,4.9
+6079,2026-07-22,sedan,19,Abdeen,4.74
+6080,2026-02-08,hatchback,29,Ramses,
+6081,2026-02-11,van,45,Sheikh Zayed,4.5
+6082,2026-02-12,sedan,37,Nasr City,4.64
+6083,2026-04-16,van,38,Zamalek,4.43
+6084,2026-03-07,sedan,41,Mohandessin,
+6085,2026-03-16,sedan,28,Nasr City,4.46
+6086,2026-01-31,sedan,59,Shorouk,
+6087,2026-03-05,hatchback,46,New Cairo,4.44
+6088,2026-03-23,hatchback,75,6th October,4.59
+6089,2026-03-18,hatchback,9,Agouza,4.77
+6090,2026-04-05,sedan,26,Dokki,4.32
+6091,2026-04-16,sedan,19,Maadi,4.53
+6092,2026-04-19,hatchback,26,Mohandessin,4.62
+6093,2026-04-08,hatchback,27,Tora,4.82
+6094,2026-02-20,sedan,69,Garden City,4.43
+6095,2026-03-23,hatchback,17,Cairo Airport,
+6096,2026-02-16,sedan,9,Madinaty,4.75
+6097,2026-03-30,sedan,47,Ramses,4.44
+6098,2026-04-21,hatchback,18,Obour,4.3
+6099,2026-02-02,sedan,79,Tora,4.54
+6100,2026-03-05,sedan,17,New Cairo,4.91
+6101,2026-05-01,hatchback,57,Cairo Airport,4.56
+6102,2026-03-07,van,22,Sheikh Zayed,4.59
+6103,2026-04-05,sedan,44,Zamalek,
+6104,2026-01-25,hatchback,50,Shubra,4.34
+6105,2026-02-01,hatchback,42,Zamalek,4.42
+6106,2026-03-12,sedan,9,Shubra,4.59
+6107,2026-04-11,sedan,55,Helwan,4.82
+6108,2026-02-15,hatchback,66,Shubra,4.27
+6109,2026-04-03,hatchback,32,Agouza,4.37
+6110,2026-02-01,hatchback,40,Mohandessin,4.56
+6111,2026-04-14,hatchback,34,Shorouk,4.41
+6112,2026-03-09,hatchback,57,Agouza,4.35
+6113,2026-02-07,sedan,7,Khanka,4.62
+6114,2026-02-11,hatchback,37,Heliopolis,4.53
+6115,2026-02-27,hatchback,83,Shubra,4.08
+6116,2026-04-01,hatchback,20,Shubra,4.57
+6117,2026-01-30,sedan,30,Qalyub,4.45
+6118,2026-01-27,sedan,42,Agouza,
+6119,2026-03-24,sedan,27,Shorouk,4.61
+6120,2026-04-28,sedan,1,Mohandessin,4.26
+6121,2026-02-23,hatchback,12,Agouza,4.76
+6122,2026-03-02,van,44,Madinaty,4.72
+6123,2026-04-16,hatchback,2,Khanka,4.41
+6124,2026-01-30,sedan,38,Ramses,
+6125,2026-04-14,sedan,14,Abdeen,
+6126,2026-02-15,sedan,32,Shorouk,4.45
+6127,2026-03-20,sedan,28,Tora,4.45
+6128,2026-04-23,sedan,4,Mohandessin,4.65
+6129,2026-04-19,sedan,24,Khanka,
+6130,2026-07-18,sedan,36,Garden City,4.74
+6131,2026-03-12,hatchback,87,Abdeen,4.84
+6132,2026-03-12,sedan,33,Shubra,4.33
+6133,2026-04-21,sedan,12,Nasr City,4.87
+6134,2026-01-27,sedan,39,Heliopolis,4.66
+6135,2026-03-05,hatchback,6,Agouza,4.52
+6136,2026-02-23,hatchback,79,Cairo Airport,4.53
+6137,2026-04-07,sedan,38,Downtown,4.82
+6138,2026-03-24,sedan,74,Maadi,
+6139,2026-01-24,van,126,Garden City,4.61
+6140,2026-01-14,hatchback,71,6th October,
+6141,2026-02-24,hatchback,20,Obour,4.57
+6142,2026-02-07,sedan,53,Abdeen,
+6143,2026-03-15,hatchback,19,Khanka,4.71
+6144,2026-06-13,hatchback,15,6th October,4.59
+6145,2026-01-13,sedan,65,Nasr City,4.65
+6146,2026-02-22,hatchback,112,Badr City,4.52
+6147,2026-02-19,van,23,Nasr City,4.37
+6148,2026-02-17,hatchback,37,Khanka,4.37
+6149,2026-04-08,van,39,Heliopolis,4.45
+6150,2026-02-21,sedan,22,Abdeen,5.0
+6151,2026-02-16,sedan,6,Cairo Airport,4.33
+6152,2026-04-17,hatchback,5,Agouza,4.56
+6153,2026-02-01,sedan,50,Sheikh Zayed,
+6154,2026-04-02,sedan,27,Garden City,4.6
+6155,2026-06-06,sedan,16,Badr City,4.36
+6156,2026-02-10,sedan,84,Sheikh Zayed,4.4
+6157,2026-03-12,sedan,40,Mohandessin,4.78
+6158,2026-06-07,sedan,13,Shorouk,
+6159,2026-04-06,hatchback,16,Abdeen,4.63
+6160,2026-03-29,hatchback,45,Nasr City,
+6161,2026-02-08,sedan,31,Mohandessin,4.41
+6162,2026-04-02,sedan,29,Ramses,4.31
+6163,2026-08-15,sedan,25,New Cairo,4.86
+6164,2026-02-17,sedan,35,Downtown,
+6165,2026-02-22,sedan,2,Nasr City,
+6166,2026-01-24,sedan,81,Shubra,4.76
+6167,2026-02-05,sedan,23,New Cairo,4.68
+6168,2026-01-31,sedan,42,Abdeen,
+6169,2026-03-27,sedan,25,Mohandessin,4.39
+6170,2026-03-31,van,7,Badr City,4.84
+6171,2026-02-10,hatchback,98,Zamalek,4.8
+6172,2026-03-21,sedan,59,New Cairo,4.73
+6173,2026-07-10,sedan,80,Obour,
+6174,2026-05-01,hatchback,37,6th October,4.68
+6175,2026-07-31,sedan,22,6th October,
+6176,2026-03-20,hatchback,20,6th October,4.64
+6177,2026-02-11,van,36,Heliopolis,4.71
+6178,2026-03-07,hatchback,21,Agouza,4.68
+6179,2026-02-26,hatchback,20,Tora,
+6180,2026-04-18,sedan,7,Nasr City,4.37
+6181,2026-03-21,sedan,36,Dokki,4.3
+6182,2026-01-09,van,80,Garden City,4.32
+6183,2026-04-12,hatchback,16,Heliopolis,
+6184,2026-05-22,sedan,21,Agouza,4.18
+6185,2026-03-16,sedan,15,Agouza,4.6
+6186,2026-04-18,sedan,10,Dokki,4.23
+6187,2026-02-12,hatchback,38,Heliopolis,4.47
+6188,2026-03-19,sedan,7,New Cairo,4.56
+6189,2026-03-20,hatchback,53,Garden City,
+6190,2026-03-18,sedan,40,Dokki,4.71
+6191,2026-01-30,hatchback,86,Dokki,4.55
+6192,2026-04-08,hatchback,28,Agouza,4.87
+6193,2025-12-26,hatchback,122,Shorouk,4.42
+6194,2026-04-11,van,41,Abdeen,4.37
+6195,2026-02-14,sedan,31,Shubra,4.73
+6196,2026-03-04,van,80,Madinaty,4.49
+6197,2026-04-28,sedan,10,Mohandessin,4.54
+6198,2026-02-04,hatchback,40,Maadi,4.64
+6199,2026-02-09,sedan,76,Qalyub,
+6200,2026-02-12,sedan,69,Qalyub,4.18
+6201,2026-02-14,sedan,17,Heliopolis,4.7
+6202,2026-02-12,sedan,25,Heliopolis,
+6203,2026-02-07,sedan,40,Agouza,4.44
+6204,2026-01-23,van,47,Mohandessin,4.64
+6205,2026-04-11,sedan,42,Helwan,4.93
+6206,2026-03-21,hatchback,33,Shorouk,
+6207,2026-02-28,sedan,67,New Cairo,4.28
+6208,2026-02-04,sedan,39,Heliopolis,4.77
+6209,2026-05-10,sedan,52,New Cairo,4.42
+6210,2026-03-14,hatchback,44,Heliopolis,4.41
+6211,2026-02-19,sedan,16,Shorouk,4.69
+6212,2026-07-17,sedan,60,Badr City,
+6213,2026-02-20,hatchback,28,Tora,4.72
+6214,2026-03-08,van,25,Agouza,4.27
+6215,2026-05-29,sedan,58,Obour,4.47
+6216,2026-07-23,sedan,26,Dokki,4.46
+6217,2026-01-10,hatchback,110,Maadi,4.62
+6218,2026-01-29,van,67,Cairo Airport,4.74
+6219,2026-03-23,sedan,31,Downtown,4.7
+6220,2026-03-11,hatchback,17,Shubra,4.26
+6221,2026-02-27,hatchback,33,Heliopolis,4.5
+6222,2026-02-23,van,27,Zamalek,4.74
+6223,2026-03-22,sedan,26,Mohandessin,4.62
+6224,2026-04-05,hatchback,31,Madinaty,
+6225,2026-03-26,sedan,16,Badr City,4.85
+6226,2026-01-11,sedan,64,Dokki,
+6227,2026-02-08,van,87,Sheikh Zayed,4.57
+6228,2026-01-23,sedan,81,Abdeen,4.35
+6229,2026-04-10,van,34,Ramses,4.62
+6230,2026-03-21,sedan,27,Dokki,
+6231,2026-01-29,hatchback,37,Nasr City,4.53
+6232,2026-03-09,sedan,47,Agouza,4.5
+6233,2026-01-20,sedan,56,Qalyub,4.53
+6234,2026-06-23,hatchback,38,Nasr City,4.8
+6235,2026-04-04,sedan,67,Dokki,4.32
+6236,2026-03-04,hatchback,41,Maadi,4.96
+6237,2026-03-30,hatchback,11,Shubra,4.37
+6238,2026-03-06,sedan,56,Mohandessin,4.62
+6239,2026-03-29,hatchback,7,Nasr City,4.31
+6240,2026-02-24,sedan,11,Cairo Airport,4.7
+6241,2026-02-24,van,62,Abdeen,4.78
+6242,2026-04-23,hatchback,22,Maadi,
+6243,2026-02-02,van,66,Qalyub,4.64
+6244,2026-03-22,sedan,62,Shubra,4.9
+6245,2026-02-07,van,113,Cairo Airport,
+6246,2026-02-20,sedan,16,Qalyub,4.61
+6247,2026-02-25,sedan,6,Heliopolis,
+6248,2026-02-14,sedan,59,Qalyub,4.27
+6249,2026-03-14,hatchback,50,Mohandessin,
+6250,2026-01-14,van,61,Dokki,4.68
+6251,2026-04-20,sedan,18,New Cairo,4.46
+6252,2026-02-12,hatchback,15,Downtown,4.73
+6253,2026-04-06,sedan,44,Maadi,4.5
+6254,2026-03-21,sedan,22,Zamalek,4.58
+6255,2026-04-01,hatchback,20,Madinaty,4.7
+6256,2026-03-14,sedan,82,Abdeen,4.67
+6257,2026-02-10,hatchback,7,6th October,4.56
+6258,2026-03-28,sedan,17,Cairo Airport,4.6
+6259,2026-06-25,hatchback,49,Ramses,4.26
+6260,2026-03-31,sedan,32,Nasr City,4.65
+6261,2026-03-13,hatchback,11,Garden City,4.38
+6262,2026-04-08,sedan,48,6th October,4.45
+6263,2026-06-15,van,17,Cairo Airport,4.52
+6264,2026-04-04,van,41,Agouza,4.16
+6265,2026-03-11,sedan,24,Maadi,4.38
+6266,2026-02-25,sedan,23,Agouza,4.41
+6267,2026-02-22,sedan,53,Shubra,4.53
+6268,2026-02-24,sedan,58,Mohandessin,4.18
+6269,2026-01-12,hatchback,74,Cairo Airport,4.62
+6270,2026-02-11,hatchback,41,Ramses,4.3
+6271,2026-04-01,hatchback,35,Garden City,
+6272,2026-02-17,sedan,101,6th October,4.63
+6273,2026-03-02,sedan,100,Downtown,
+6274,2026-03-26,sedan,37,Obour,4.78
+6275,2026-03-23,sedan,59,Downtown,
+6276,2026-03-21,hatchback,31,Shorouk,4.47
+6277,2026-02-21,sedan,66,Badr City,4.3
+6278,2026-04-20,hatchback,32,Dokki,
+6279,2026-01-19,sedan,39,Nasr City,4.41
+6280,2026-02-01,sedan,6,Dokki,4.74
+6281,2026-03-15,sedan,49,Downtown,4.3
+6282,2026-03-04,sedan,29,Shubra,4.39
+6283,2026-02-16,van,33,Maadi,
+6284,2026-02-06,hatchback,30,Shubra,4.43
+6285,2026-04-10,hatchback,10,Garden City,4.55
+6286,2026-02-16,hatchback,49,Zamalek,4.54
+6287,2026-02-06,sedan,22,6th October,4.75
+6288,2026-04-07,sedan,41,Nasr City,4.58
+6289,2026-04-22,hatchback,10,Khanka,4.47
+6290,2026-04-08,hatchback,47,Maadi,4.32
+6291,2026-01-04,hatchback,90,Shorouk,4.44
+6292,2026-02-16,hatchback,44,Shorouk,4.55
+6293,2026-02-15,van,61,Maadi,
+6294,2026-03-01,sedan,59,Zamalek,4.75
+6295,2026-04-06,sedan,17,Khanka,
+6296,2026-07-11,sedan,43,Garden City,4.55
+6297,2026-06-13,sedan,43,Nasr City,4.64
+6298,2026-02-23,sedan,35,Tora,4.33
+6299,2026-03-31,hatchback,1,Badr City,4.41
+6300,2026-02-26,sedan,36,Agouza,4.46
+6301,2026-03-09,hatchback,12,Obour,
+6302,2026-03-22,sedan,9,Zamalek,4.53
+6303,2026-02-09,sedan,28,Dokki,
+6304,2026-01-29,sedan,34,Obour,4.48
+6305,2026-03-02,sedan,74,Shubra,4.78
+6306,2026-03-21,sedan,42,Abdeen,4.42
+6307,2026-04-02,sedan,54,Shubra,
+6308,2026-01-31,van,9,Shorouk,4.85
+6309,2026-04-07,hatchback,24,Obour,4.57
+6310,2026-02-08,sedan,24,Abdeen,4.69
+6311,2026-04-21,sedan,6,Nasr City,4.87
+6312,2026-03-01,hatchback,37,Maadi,
+6313,2026-03-08,hatchback,12,Badr City,4.3
+6314,2026-02-13,van,43,Garden City,4.4
+6315,2026-01-11,hatchback,73,Heliopolis,4.6
+6316,2026-03-23,sedan,30,Ramses,
+6317,2026-07-26,hatchback,4,Nasr City,4.7
+6318,2026-02-07,sedan,34,Shubra,4.67
+6319,2026-04-26,hatchback,5,Badr City,4.69
+6320,2026-01-05,sedan,100,Dokki,4.78
+6321,2026-03-20,hatchback,13,Heliopolis,4.92
+6322,2026-04-15,sedan,36,Mohandessin,4.47
+6323,2026-02-24,sedan,95,Dokki,4.57
+6324,2026-02-14,van,57,Khanka,4.37
+6325,2026-02-15,hatchback,25,Cairo Airport,4.64
+6326,2026-04-07,sedan,35,Sheikh Zayed,4.65
+6327,2026-02-05,sedan,32,Heliopolis,4.58
+6328,2026-02-02,van,89,New Cairo,4.44
+6329,2026-02-23,sedan,22,Garden City,4.55
+6330,2026-03-01,hatchback,28,Agouza,4.26
+6331,2026-04-11,hatchback,13,Shubra,4.07
+6332,2026-03-24,sedan,46,Zamalek,4.29
+6333,2026-08-02,hatchback,16,Nasr City,4.4
+6334,2026-02-20,sedan,21,Cairo Airport,4.54
+6335,2026-04-01,sedan,36,Qalyub,4.96
+6336,2026-03-18,sedan,19,Nasr City,4.63
+6337,2026-03-04,hatchback,31,Khanka,4.9
+6338,2026-02-17,sedan,30,Agouza,
+6339,2026-02-27,sedan,54,Mohandessin,4.79
+6340,2026-02-14,sedan,97,Shubra,4.66
+6341,2026-03-26,hatchback,40,Garden City,4.83
+6342,2026-02-11,sedan,14,New Cairo,4.64
+6343,2026-04-03,sedan,56,Heliopolis,4.17
+6344,2026-03-10,hatchback,59,Qalyub,4.39
+6345,2026-03-26,van,80,Madinaty,4.51
+6346,2026-02-10,hatchback,85,Nasr City,4.64
+6347,2026-07-14,sedan,29,Abdeen,
+6348,2026-03-04,hatchback,70,Heliopolis,4.19
+6349,2026-02-05,sedan,63,Downtown,4.61
+6350,2026-01-30,sedan,19,Agouza,4.48
+6351,2026-03-17,sedan,20,Heliopolis,4.73
+6352,2026-02-19,sedan,24,Nasr City,4.4
+6353,2026-03-20,sedan,25,Heliopolis,4.55
+6354,2026-02-13,sedan,13,Abdeen,4.57
+6355,2026-04-08,sedan,23,Badr City,
+6356,2026-02-21,sedan,36,Sheikh Zayed,4.27
+6357,2026-02-17,van,23,Obour,4.36
+6358,2026-02-09,hatchback,29,Garden City,
+6359,2026-02-11,sedan,30,Zamalek,4.59
+6360,2026-03-15,van,35,Cairo Airport,
+6361,2026-01-31,hatchback,62,Maadi,4.81
+6362,2026-03-08,sedan,22,New Cairo,
+6363,2026-03-18,sedan,31,Obour,4.87
+6364,2026-04-04,sedan,11,Zamalek,4.19
+6365,2026-01-23,hatchback,38,New Cairo,4.56
+6366,2026-01-30,sedan,42,Shorouk,4.5
+6367,2026-03-06,sedan,83,Qalyub,4.29
+6368,2026-01-31,sedan,54,Nasr City,4.84
+6369,2026-02-26,hatchback,10,New Cairo,4.76
+6370,2026-01-22,hatchback,43,Dokki,4.72
+6371,2026-02-12,hatchback,12,Shubra,4.69
+6372,2026-02-25,hatchback,16,Heliopolis,4.33
+6373,2026-02-01,sedan,23,Cairo Airport,4.56
+6374,2026-03-22,sedan,31,Abdeen,4.2
+6375,2026-03-21,hatchback,19,Sheikh Zayed,
+6376,2026-07-13,sedan,40,Qalyub,4.34
+6377,2026-02-08,hatchback,20,Zamalek,4.41
+6378,2026-03-10,sedan,12,Abdeen,4.52
+6379,2026-04-14,sedan,37,New Cairo,4.46
+6380,2026-04-26,sedan,3,Agouza,4.51
+6381,2026-02-26,sedan,133,Tora,4.65
+6382,2026-02-19,sedan,50,Zamalek,4.2
+6383,2026-02-18,hatchback,28,Mohandessin,4.16
+6384,2026-03-15,sedan,35,Nasr City,4.54
+6385,2026-05-19,hatchback,27,Mohandessin,
+6386,2026-03-31,hatchback,8,Nasr City,
+6387,2026-02-22,sedan,10,Cairo Airport,4.65
+6388,2026-04-06,sedan,29,Nasr City,4.69
+6389,2026-02-25,van,19,Sheikh Zayed,4.36
+6390,2026-02-01,sedan,18,Sheikh Zayed,4.55
+6391,2026-02-09,hatchback,94,Agouza,4.42
+6392,2026-04-20,sedan,29,Maadi,4.86
+6393,2026-02-19,sedan,26,Shorouk,4.66
+6394,2026-03-07,sedan,26,6th October,
+6395,2026-04-07,sedan,52,Shorouk,4.78
+6396,2026-02-24,sedan,48,Abdeen,
+6397,2026-01-25,hatchback,79,New Cairo,4.51
+6398,2026-04-05,sedan,32,Sheikh Zayed,4.59
+6399,2026-02-27,sedan,112,Obour,4.61
+6400,2026-03-20,sedan,46,Maadi,4.58
+6401,2026-07-04,hatchback,45,Madinaty,4.9
+6402,2026-03-27,sedan,52,Maadi,4.48
+6403,2026-01-31,sedan,9,Maadi,4.59
+6404,2026-05-10,sedan,86,Cairo Airport,4.43
+6405,2026-03-31,sedan,38,6th October,4.38
+6406,2026-04-12,sedan,26,Madinaty,4.57
+6407,2026-02-23,sedan,57,New Cairo,4.54
+6408,2025-12-22,hatchback,140,Ramses,4.3
+6409,2026-04-16,hatchback,32,Mohandessin,4.52
+6410,2026-07-20,sedan,29,Zamalek,4.34
+6411,2026-03-10,van,70,Heliopolis,4.52
+6412,2026-04-03,sedan,14,Khanka,4.42
+6413,2026-03-25,sedan,50,Sheikh Zayed,4.43
+6414,2026-02-14,sedan,18,Badr City,4.41
+6415,2026-03-13,van,23,Ramses,4.61
+6416,2026-01-25,van,40,Downtown,4.18
+6417,2026-01-27,van,29,Shorouk,4.17
+6418,2026-03-10,hatchback,8,Maadi,4.73
+6419,2026-02-10,sedan,42,Tora,4.56
+6420,2026-03-09,sedan,22,Shubra,4.4
+6421,2026-02-07,hatchback,46,Helwan,4.57
+6422,2026-06-25,sedan,116,New Cairo,
+6423,2026-03-17,sedan,53,Shorouk,
+6424,2026-01-23,sedan,74,Mohandessin,4.63
+6425,2026-03-19,sedan,82,Badr City,4.88
+6426,2026-03-13,sedan,23,Garden City,4.76
+6427,2026-03-13,sedan,22,Agouza,4.61
+6428,2026-04-14,hatchback,9,Heliopolis,4.46
+6429,2026-01-31,sedan,87,Heliopolis,4.6
+6430,2026-03-03,hatchback,21,Agouza,4.4
+6431,2026-04-03,sedan,37,Mohandessin,
+6432,2026-01-27,sedan,27,Ramses,4.45
+6433,2026-01-27,sedan,45,Ramses,4.09
+6434,2026-02-15,sedan,47,Sheikh Zayed,4.3
+6435,2026-02-12,sedan,67,Downtown,
+6436,2026-03-04,sedan,18,Heliopolis,4.22
+6437,2026-03-04,sedan,25,Shorouk,5.0
+6438,2026-02-21,hatchback,58,Qalyub,4.5
+6439,2026-01-24,hatchback,72,Nasr City,4.64
+6440,2026-02-09,sedan,47,Madinaty,4.23
+6441,2026-03-21,sedan,42,Tora,4.64
+6442,2026-02-01,hatchback,11,Maadi,4.66
+6443,2026-02-21,sedan,12,Heliopolis,
+6444,2026-01-31,hatchback,79,Garden City,4.31
+6445,2026-05-04,hatchback,138,Zamalek,4.45
+6446,2026-02-17,hatchback,35,Obour,4.39
+6447,2026-07-20,sedan,14,Heliopolis,4.29
+6448,2026-01-26,sedan,41,Tora,4.51
+6449,2026-03-13,sedan,36,Shorouk,4.72
+6450,2026-04-04,hatchback,32,Zamalek,4.5
+6451,2026-02-27,sedan,67,Maadi,
+6452,2026-03-14,hatchback,39,Sheikh Zayed,4.44
+6453,2026-06-29,sedan,45,Garden City,
+6454,2026-03-11,sedan,113,Cairo Airport,
+6455,2026-05-24,van,26,Garden City,4.48
+6456,2026-01-20,sedan,72,Abdeen,4.75
+6457,2026-03-12,hatchback,32,Obour,4.6
+6458,2026-04-26,hatchback,10,Helwan,
+6459,2026-03-19,sedan,21,Heliopolis,4.77
+6460,2026-03-06,sedan,71,Heliopolis,4.63
+6461,2026-03-24,hatchback,21,Maadi,
+6462,2026-01-26,sedan,36,Dokki,4.4
+6463,2026-04-18,hatchback,2,Obour,4.45
+6464,2026-03-16,sedan,25,Sheikh Zayed,4.63
+6465,2026-02-26,sedan,18,Shubra,
+6466,2026-03-06,sedan,15,Maadi,4.48
+6467,2026-02-28,sedan,26,Agouza,
+6468,2026-02-28,sedan,56,Shubra,4.43
+6469,2026-04-16,hatchback,8,Garden City,4.51
+6470,2026-03-27,sedan,31,Tora,
+6471,2026-02-24,hatchback,40,Agouza,4.64
+6472,2026-04-09,van,21,Shorouk,4.7
+6473,2026-03-20,van,16,Shorouk,4.46
+6474,2026-03-30,sedan,74,Garden City,4.5
+6475,2026-04-03,hatchback,19,Agouza,4.51
+6476,2026-01-20,hatchback,38,Cairo Airport,4.41
+6477,2026-04-19,sedan,7,Agouza,4.31
+6478,2026-02-20,van,29,Heliopolis,4.26
+6479,2026-02-13,hatchback,80,Dokki,4.61
+6480,2026-06-11,sedan,42,Garden City,4.48
+6481,2026-01-25,sedan,38,Mohandessin,4.41
+6482,2026-05-15,van,86,6th October,4.68
+6483,2026-03-06,sedan,6,Qalyub,4.77
+6484,2026-01-31,sedan,15,Agouza,
+6485,2026-02-02,sedan,36,Shubra,
+6486,2026-06-07,sedan,52,Khanka,
+6487,2026-03-17,van,24,Heliopolis,
+6488,2026-03-01,hatchback,11,Madinaty,4.32
+6489,2026-03-30,hatchback,49,Garden City,4.44
+6490,2026-04-21,hatchback,22,Heliopolis,4.72
+6491,2026-03-07,sedan,29,Nasr City,4.14
+6492,2026-04-12,hatchback,10,Ramses,4.56
+6493,2026-02-19,sedan,86,Garden City,4.37
+6494,2026-06-06,hatchback,22,Obour,4.62
+6495,2026-02-11,sedan,34,Cairo Airport,4.34
+6496,2026-01-22,sedan,59,Agouza,4.86
+6497,2026-02-17,hatchback,31,Maadi,4.34
+6498,2026-06-20,sedan,81,Downtown,
+6499,2026-03-09,sedan,80,Garden City,4.66
