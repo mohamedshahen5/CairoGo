@@ -1,7 +1,7 @@
 {
   "team_id": "20236084",
   "version": 0,
-  "self_reported_holdout_recall": null,
+  "self_reported_holdout_recall": 0.6112531969309463,
   "join": {
     "unmatched_before": 0.090317,
     "unmatched_zones": [
@@ -40,8 +40,37 @@
     "within_slope": 0.4546,
     "confounder": "zone_type"
   },
-  "validation": {},
-  "knn_scaling": "scaled",
+  "validation": {
+    "logistic": {
+      "auc": 0.8438797000493561,
+      "recall_at_15": 0.41048593350383633,
+      "brier": 0.12241148482068939,
+      "cost": 0.381466742467311
+    },
+    "hgb": {
+      "auc": 0.939284018336549,
+      "recall_at_15": 0.6112531969309463,
+      "brier": 0.07045552172884371,
+      "cost": 0.2214326321773735
+    },
+    "knn_fixed": {
+      "k": 11,
+      "auc": 0.8884698759366446,
+      "recall_at_15": 0.5728900255754475,
+      "brier": 0.09041106188245573,
+      "cost": 0.28880045480386585
+    },
+    "nn": {
+      "auc": 0.9226083310898731,
+      "recall_at_15": 0.6023017902813299,
+      "hidden_layers": [
+        64,
+        32
+      ],
+      "early_stopping": true
+    }
+  },
+  "knn_scaling": "unscaled",
   "investigation": {
     "recall_before_fix": 0.2709,
     "recall_after_fix": 0.6409
@@ -49,7 +78,10 @@
   "local_k": {},
   "segment_interpretations": {},
   "review_disagreements": [],
-  "nn_scaling": {},
+  "nn_scaling": {
+    "auc_scaled": 0.9226083310898731,
+    "auc_unscaled": 0.9115223654297722
+  },
   "nn_decision": "do_not_deploy",
   "segmentation": {},
   "decision": {}
